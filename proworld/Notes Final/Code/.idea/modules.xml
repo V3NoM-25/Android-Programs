@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Addno/Addno.iml" filepath="$PROJECT_DIR$/Addno/Addno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlarmLocation/AlarmLocation.iml" filepath="$PROJECT_DIR$/AlarmLocation/AlarmLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnalogClk/AnalogClk.iml" filepath="$PROJECT_DIR$/AnalogClk/AnalogClk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckB/CheckB.iml" filepath="$PROJECT_DIR$/CheckB/CheckB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gal/Gal.iml" filepath="$PROJECT_DIR$/Gal/Gal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gallary/Gallary.iml" filepath="$PROJECT_DIR$/Gallary/Gallary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIDETITLE/HIDETITLE.iml" filepath="$PROJECT_DIR$/HIDETITLE/HIDETITLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyGallary/MyGallary.iml" filepath="$PROJECT_DIR$/MyGallary/MyGallary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyfirstApp/MyfirstApp.iml" filepath="$PROJECT_DIR$/MyfirstApp/MyfirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PuneGallary/PuneGallary.iml" filepath="$PROJECT_DIR$/PuneGallary/PuneGallary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seekbar/Seekbar.iml" filepath="$PROJECT_DIR$/Seekbar/Seekbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpinDemo/SpinDemo.iml" filepath="$PROJECT_DIR$/SpinDemo/SpinDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student_Online_feedback/Student_Online_feedback.iml" filepath="$PROJECT_DIR$/Student_Online_feedback/Student_Online_feedback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToggleB/ToggleB.iml" filepath="$PROJECT_DIR$/ToggleB/ToggleB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analogdigital/analogdigital.iml" filepath="$PROJECT_DIR$/analogdigital/analogdigital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assign1/assign1.iml" filepath="$PROJECT_DIR$/assign1/assign1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignadd/assignadd.iml" filepath="$PROJECT_DIR$/assignadd/assignadd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocompletetextview/autocompletetextview.iml" filepath="$PROJECT_DIR$/autocompletetextview/autocompletetextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colorchange/colorchange.iml" filepath="$PROJECT_DIR$/colorchange/colorchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datepicker2/datepicker2.iml" filepath="$PROJECT_DIR$/datepicker2/datepicker2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ggsp/ggsp.iml" filepath="$PROJECT_DIR$/ggsp/ggsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ggssp/ggssp.iml" filepath="$PROJECT_DIR$/ggssp/ggssp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/krupap/krupap.iml" filepath="$PROJECT_DIR$/krupap/krupap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonecall/phonecall.iml" filepath="$PROJECT_DIR$/phonecall/phonecall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbar1/progressbar1.iml" filepath="$PROJECT_DIR$/progressbar1/progressbar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proworld/proworld.iml" filepath="$PROJECT_DIR$/proworld/proworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rating/rating.iml" filepath="$PROJECT_DIR$/rating/rating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sagar/sagar.iml" filepath="$PROJECT_DIR$/sagar/sagar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplecallertalker/simplecallertalker.iml" filepath="$PROJECT_DIR$/simplecallertalker/simplecallertalker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinner/spinner.iml" filepath="$PROJECT_DIR$/spinner/spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumofno/sumofno.iml" filepath="$PROJECT_DIR$/sumofno/sumofno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/texttospeech/texttospeech.iml" filepath="$PROJECT_DIR$/texttospeech/texttospeech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tpc/tpc.iml" filepath="$PROJECT_DIR$/tpc/tpc.iml" />
+    </modules>
+  </component>
+</project>

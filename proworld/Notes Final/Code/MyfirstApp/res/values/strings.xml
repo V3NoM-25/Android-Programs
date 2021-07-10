@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyfirstApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_change_text_color">ChangeTextColorActivity</string>
+    <string name="title_activity_first_page">FirstPageActivity</string>
+    <string name="title_activity_textchange">TextchangeActivity</string>
+    <string name="title_activity_image_gall">ImageGallActivity</string>
+    <string name="title_activity_aishwp">Aishwp</string>
+
+</resources>
